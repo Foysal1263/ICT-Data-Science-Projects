@@ -3,3 +3,4 @@ A collection of Machine Learning and Statistical Analysis projects completed dur
 ###Supervised Learning (Regression): Implemented Linear and Polynomial regression to predict data trends.
 ###Database Management: Schemas and queries for Banking and Student Management systems using MySQL.
 ###Inferential Statistics: Python scripts for T-Tests and ANOVA to validate data hypothesis.
+"Successfully completed a 600-hour Diploma in ICT with a 3.78 CGPA at the National Institute of Youth Development."
